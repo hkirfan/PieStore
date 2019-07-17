@@ -25,3 +25,5 @@ C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.Views.pdb
 C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.dll
 C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.pdb
 C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.csproj.CopyComplete
+C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\Razor\Views\Feedback\Index.g.cshtml.cs
+C:\www\BethanysPieShop\obj\Debug\netcoreapp2.2\Razor\Views\Feedback\FeedbackComplete.g.cshtml.cs
