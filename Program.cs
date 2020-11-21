@@ -1,6 +1,7 @@
 ﻿using BethanysPieShop.Models;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BethanyPieShop
@@ -17,6 +18,7 @@ namespace BethanyPieShop
                   try
                   {
                       var context = services.GetRequiredService<AppDbContext>();
+                      context.Database.Migrate();
                       DbInitializer.Seed(context);
                   }
                   catch
