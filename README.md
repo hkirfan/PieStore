@@ -7,3 +7,5 @@ Through this project I explored .NET Core MVC framework concepts such as:
 5. Using Entity Framework Core and Code-first migrations,
 6. Asp .NET Core tag helpers, and
 7. Asp .NET Core Identity for authentication and authorization.
+
+Checkout this web app at: https://piestorecore.azurewebsites.net/
