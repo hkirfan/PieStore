@@ -1,4 +1,4 @@
-# PieStore is a small demonstration of building a website using .NET Core MVC. 
+# PieStore is a small demonstration of building a website using .NET 5 MVC. 
 Through this project I explored .NET Core MVC framework concepts such as: 
 1. Structure of .NET Core MVC web project,
 2. Configuring StartUp and running the application,
@@ -8,4 +8,6 @@ Through this project I explored .NET Core MVC framework concepts such as:
 6. Asp .NET Core tag helpers, and
 7. Asp .NET Core Identity for authentication and authorization.
 
-Checkout this web app at: https://piestorecore.azurewebsites.net/
+Updated the project to .NET 5!
+
+Checkout this web app at: https://piestore.azurewebsites.net/
